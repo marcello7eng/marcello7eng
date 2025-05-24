@@ -15,6 +15,5 @@ Hello programmer🙂, I'm Marcello, Welcome to my space on GitHub🎈
   <img align="center" alt="mf-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="mf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mf-BASIC" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/MSX_logo.svg">
 </div>
 
