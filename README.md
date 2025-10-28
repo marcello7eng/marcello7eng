@@ -28,6 +28,6 @@ I enjoy building clean, modular applications — from REST APIs to modern fronte
 ---
 
 📫 **Contact:**  
-[LinkedIn]([https://www.linkedin.com/in/marcellofelipe) • [GitHub](https://github.com/marcello7eng)
+[LinkedIn](https://www.linkedin.com/in/marcellofelipe) • [GitHub](https://github.com/marcello7eng)
 
 > _“Code simply. Learn constantly.”_
