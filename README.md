@@ -6,7 +6,8 @@ I enjoy building clean, modular applications — from REST APIs to modern fronte
 ---
 
 ## 🚀 Tech Stack
-<div style="display: flex; gap: 10px;">
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="35" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="35" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="35" width="45">
@@ -15,7 +16,7 @@ I enjoy building clean, modular applications — from REST APIs to modern fronte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="35" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="35" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" height="35" width="45">
-</div>
+</p>
 
 ---
 
